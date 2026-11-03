@@ -1,0 +1,9 @@
+place" single_piston_sim.py " file in c drive
+
+
+open cmd and run 2 commands below
+
+
+
+pip install pygame
+python  single_piston_sim.py
